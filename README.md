@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/profile.jpg" width="150" style="border-radius:50%" alt="James Olanipekun" />
+  <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesFullPicTechOffice.jpg" width="150" style="border-radius:50%" alt="James Olanipekun" />
 </p>
 
 <h1 align="center">👋 Software Engineer | Full-Stack Developer (Node.js, NestJS, ASP.NET Core, Blazor, React, Next.js, Angular, React Native)</h1>
