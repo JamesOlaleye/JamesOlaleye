@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesFullPicTechOffice.jpg" width="250" style="border-radius:50%" alt="James Olanipekun" />
 </p>
 
-<h1 align="center">👋 Software Engineer | Full-Stack Developer (Node.js, NestJS, ASP.NET Core, Blazor, React, Next.js, Angular, React Native)</h1>
+<h1 align="center">Senior Software Engineer | Full Stack | Node.js, C#, ASP.NET Core, TypeScript, React, Next.js, SQL/NoSQL | Azure & AWS | Docker, CI/CD | Microservices | Scalable, Event-Driven & Cloud Architecture | API & Security Design</h1>
 
 <p align="center">
 Building scalable, secure, and high-performance solutions across the stack — from microservices and cloud-native backend systems to rich, responsive frontend experiences.
@@ -16,7 +16,7 @@ Building scalable, secure, and high-performance solutions across the stack — f
 I’m **James Olanipekun**, an experienced Software Engineer effecient in architecting end-to-end solutions that scale. With a strong foundation in **backend technologies (Node.js, ASP.NET Core, NestJS)** and **frontend ecosystems (React, Next.js, React Native)**, I deliver production-ready systems that power impactful user experiences.
 
 My focus areas include:
-- ⚙️ **Backend architecture** — microservices, event-driven systems, REST & GraphQL APIs, API gateways
+- ⚙️ **Backend architecture** — microservices, event-driven systems, RESTful, GraphQL, gRPC, websocket APIs, API gateways
 - 🧰 **Frontend excellence** — component-driven UIs, performance optimization, accessibility, responsive design
 - ☁️ **Cloud & DevOps** — AWS, Azure, Docker, CI/CD pipelines, containerized deployments
 - 🧠 **System design & scalability** — clean architecture, domain-driven design (DDD), design patterns
