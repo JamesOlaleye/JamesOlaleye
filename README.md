@@ -13,7 +13,7 @@ Building scalable, secure, and high-performance solutions across the stack — f
 
 ## 👨‍💻 About Me
 
-I’m **James Olanipekun**, an experienced Software Engineer effecient in architecting end-to-end solutions that scale. With a strong foundation in **backend technologies (Node.js, ASP.NET Core, NestJS)** and **frontend ecosystems (React, Next.js, React Native)**, I deliver production-ready systems that power impactful user experiences.
+I’m **James Olanipekun**, an experienced Software Engineer effecient in architecting end-to-end solutions that scale. With a strong foundation in **backend technologies: Node.js, NestJS, ASP.NET Core, Entity Framwork** and **frontend technologies: React, Next.js, Angular, React Native**. I deliver production-ready systems that power impactful user experiences.
 
 My focus areas include:
 - ⚙️ **Backend architecture** — microservices, event-driven systems, RESTful, GraphQL, gRPC, websocket APIs, API gateways
