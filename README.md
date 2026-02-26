@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesFullPicTechOffice.jpg" width="250" style="border-radius:50%" alt="James Olanipekun" />
 </p>
 
-<h1 align="center">Senior Software Engineer — Node.js | ASP.NET Core | TypeScript, JavaScript, React, Next.js | SQL, NoSQL | CI/CD | API Architecture & Security Design | Microservices | AWS, Azure, Docker | Scalable, Event-Driven & Cloud Architecture</h1>
+<h1 align="center">Backend Engineer | .NET (C#, ASP.NET Core, MVC), Node.js (NestJS, Express) | RESTful APIs, Microservices, Distributed Systems | SQL, MongoDB, Redis | Azure, AWS, Docker, CI/CD | TypeScript, React, Next.js, Angular, Agile</h1>
 
 <p align="center">
 Building scalable, secure, and high-performance solutions across the stack — from microservices and cloud-native backend systems to rich, responsive frontend experiences.
