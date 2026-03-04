@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesFullPicTechOffice.jpg" width="250" style="border-radius:50%" alt="James Olanipekun" />
+  <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesOnHeadPhoneGlass.png" width="250" style="border-radius:50%" alt="James Olanipekun" />
 </p>
 
 <h1 align="center">Backend Engineer | .NET (C#, ASP.NET Core, MVC), Node.js (NestJS, Express) | RESTful APIs, Microservices, Distributed Systems | SQL, MongoDB, Redis | Azure, AWS, Docker, CI/CD | TypeScript, React, Next.js, Angular, Agile</h1>
