@@ -1,143 +1,118 @@
-<!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesOnHeadPhoneGlass.png" width="250" style="border-radius:50%" alt="James Olanipekun" />
+  <img src="https://raw.githubusercontent.com/JamesOlaleye/JamesOlaleye/main/assets/JamesOnHeadPhoneGlass.png" width="220" alt="James Olanipekun">
 </p>
 
-<h1 align="center">Backend Engineer | .NET (C#, ASP.NET Core, MVC), Node.js (NestJS, Express) | RESTful APIs, Microservices, Distributed Systems | SQL, MongoDB, Redis | Azure, AWS, Docker, CI/CD | TypeScript, React, Next.js, Angular, Agile</h1>
+<h1 align="center">James Olanipekun</h1>
+<h3 align="center">Senior Backend Engineer · .NET &amp; Node.js · Fintech, Payments &amp; Core Banking</h3>
 
 <p align="center">
-Building scalable, secure, and high-performance solutions across the stack — from microservices and cloud-native backend systems to rich, responsive frontend experiences.
+  <a href="https://jamesolaleye.github.io"><img src="https://img.shields.io/badge/Portfolio-jamesolaleye.github.io-d6a93e?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/james-olanipekun-0487a0344/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jamesfullstackdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+<p align="center">Lagos, Nigeria · Open to remote roles (UTC+1, overlaps UK/EU hours)</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **James Olanipekun**, an experienced Software Engineer effecient in architecting end-to-end solutions that scale. With a strong foundation in **backend technologies: Node.js, NestJS, ASP.NET Core, Entity Framwork** and **frontend technologies: React, Next.js, Angular, React Native**. I deliver production-ready systems that power impactful user experiences.
+I'm **James Olanipekun**, a Senior Backend Engineer with nearly 8 years building secure, high-throughput systems for banks and fintechs. I work across **C#/.NET (ASP.NET Core, Entity Framework Core)** and **Node.js (NestJS, Express, TypeScript)**, with full-stack fluency in **React, Next.js and Angular**.
 
-My focus areas include:
-- ⚙️ **Backend architecture** — microservices, event-driven systems, RESTful, GraphQL, gRPC, websocket APIs, API gateways
-- 🧰 **Frontend excellence** — component-driven UIs, performance optimization, accessibility, responsive design
-- ☁️ **Cloud & DevOps** — AWS, Azure, Docker, CI/CD pipelines, containerized deployments
-- 🧠 **System design & scalability** — clean architecture, domain-driven design (DDD), design patterns
-- 💼 **Leadership & collaboration** — mentoring teams, improving engineering processes, driving innovation
+Most recently I've worked on digital banking platforms at **First Bank of Nigeria** and **Lotus Bank**, and on a digital lending platform at **VeendHQ**.
+
+### 📈 Highlights
+
+- **₦5B+** processed through banking backends I built, across **57+ branches** and **10,000+ merchants**
+- Payment rail integrations: **NIBSS NIP, Paystack, Expresspay**
+- **99.9% uptime** and **35% lower API latency** on a loan platform serving 15,000+ users
+- MSSQL → PostgreSQL microservices migration and security hardening at a tier-1 bank
+- Mentored **10+** junior developers
+
+### 🎯 Focus areas
+
+- ⚙️ **Backend architecture**: microservices, event-driven systems, REST, GraphQL, gRPC, WebSockets, API gateways
+- 🏦 **Fintech & banking**: payment rails, settlements, collections, core banking, distributed job scheduling
+- 🧠 **System design**: Clean Architecture, DDD, CQRS, design patterns
+- ☁️ **Cloud & DevOps**: AWS, Azure, Docker, CI/CD, observability
+- 🎨 **Frontend**: component-driven UIs, Tailwind CSS, performance, accessibility, SEO
 
 ---
 
-## 📊 GitHub Insights
+## 🚀 Featured work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesOlaleye&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesOlaleye&layout=compact&theme=tokyonight" height="180"/>
-</p>
+| Project | Domain | My role |
+|---|---|---|
+| [LIT by FirstBank](https://play.google.com/store/apps/details?id=com.firstbank.lit) | Tier-1 banking | Performance, PostgreSQL migration, security |
+| [Lotus Bank App](https://apps.apple.com/ng/app/lotus-bank-app/id1599550703) | Commercial banking | Backend lead, payment rails, job scheduling |
+| [Veend](https://apps.apple.com/us/app/veend/id6470826772) | Fintech lending | Backend engineering lead, .NET + Node.js |
+| [AllRoutes Rider](https://allrouteslogistics.co/allroutes_logistics/NG/homepage) | Logistics | Full-stack: Node.js APIs, React + Tailwind dashboard |
+
+Case studies: **[jamesolaleye.github.io](https://jamesolaleye.github.io)**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 🧑‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Frameworks & Libraries
-
-<!-- 🛠️ Backend -->
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### Frameworks & Libraries
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<!-- 💻 Frontend -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🧪 Tools & Collaboration
+### Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=F06A6A)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 🏗️ Architecture & Principles
+## 🏗️ How I build
 
-I build systems grounded in modern architectural best practices:
-- 🧱 **Microservices** and **API Gateways** for modular, scalable solutions  
-- ⚡ **Event-driven** and **asynchronous** architecture for resilient, real-time platforms  
-- 📐 **Clean Architecture**, **Domain-Driven Design (DDD)**, and SOLID principles  
-- 🌐 Design and implementation of **RESTful APIs** and **GraphQL APIs** with robust validation, versioning, and documentation (Swagger, Postman)  
-- 🗃️ Data access and modeling with **Entity Framework Core**, **LINQ**, and database migrations for scalable persistence layers  
-- 🔒 Secure authentication/authorization (OAuth2, JWT, encryption)  
-- 📊 FinTech-ready systems with **payment gateway integration** and high availability  
-- ☁️ **Cloud-native deployments** with Docker containers, AWS ECS, Azure App Services  
-- 🧪 Test-driven development (TDD), CI/CD automation, and observability tooling
-
+- **Every payment exactly once**: idempotent transfers and settlements, so retries never move money twice
+- **See it before customers do**: metrics, structured logs and alerts ship with every feature
+- **Secrets out of code**: centralized secrets, encryption and least-privilege access by default
+- **Clean boundaries**: Clean Architecture, DDD and SOLID so systems stay easy to change
 
 ---
 
-## 📁 Highlighted Projects
-
-- **[VeendHQ Fintech](https://veendhq.com/)** – A comprehensive credit and financial ecosystem enabling accessible lending and financial services across Africa.  
-  - [Business Portal](https://business.veendhq.com/login) – Role-based admin and business dashboard for managing credit workflows, onboarding, and analytics.
-
-- **[AllRoutes Logistics Service](https://allrouteslogistics.co/allroutes_logistics/NG/homepage)** – A logistics and delivery management platform offering efficient routing, dispatching, and real-time tracking.  
-  - [Admin Portal](https://allrouteslogistics.co/allroutes_logistics/NG/login) – Enterprise-level dashboard for fleet and shipment management.
-
-- **[Cambio](https://cambio.ng/)** – Gift card & cryptocurrency platform with real-time rates and secure transactions.  
-  - [Admin Portal](https://cambio-vas.vercel.app/login) – Management dashboard for handling transactions, users, and real-time rate configurations.
-- **[PINVENT App](https://pinvent-app-smoky.vercel.app/)** – Inventory management & shopping optimization platform.  
-- **[Monie Paddy](https://monie-paddy.onrender.com/)** – FinTech platform for secure payments, CRUD operations, and SSO.  
-- **[DecaBlog](https://decablog16.onrender.com/)** – Blog platform with Google SSO, audience analytics, and fast content delivery.  
-- **[Adire App](https://adire1.vercel.app/)** – Tailoring business management system with seamless payments and team collaboration.
-
-
----
-
-## 🧑‍💼 Leadership & Impact
-
-- Led delivery of multi-tenant platforms serving thousands of users with 40% faster load times.  
-- Mentored developers, improved onboarding, and implemented code review best practices.  
-- Defined frontend and backend architecture guidelines to standardize delivery across teams.  
-- Drove accessibility improvements and ensured WCAG AA compliance on core features.
-
----
-
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/james-olanipekun-0487a0344/)  
-- 💻 [GitHub](https://github.com/JamesOlaleye)  
-- ✉️ Email: [jamesfullstackdeveloper@gmail.com](mailto:jamesfullstackdeveloper@gmail.com)
-
----
-
-⭐ *“I believe in writing clean, scalable, and maintainable code that solves real-world problems — and mentoring teams to do the same.”*
-
+<p align="center">💬 Hiring a backend engineer for fintech, payments, e-commerce, logistics, hospitality or SaaS? <a href="https://jamesolaleye.github.io">Let's talk.</a></p>
