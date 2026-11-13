@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">James Olanipekun</h1>
-<h3 align="center">Senior Backend Engineer · .NET &amp; Node.js · Fintech, Payments &amp; Core Banking</h3>
+<h3 align="center">Senior Backend Engineer · .NET &amp; Node.js · Fintech, E-commerce, Logistics, Hospitality &amp; SaaS</h3>
 
 <p align="center">
   <a href="https://jamesolaleye.github.io"><img src="https://img.shields.io/badge/Portfolio-jamesolaleye.github.io-d6a93e?style=for-the-badge" alt="Portfolio"></a>
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **James Olanipekun**, a Senior Backend Engineer with nearly 8 years building secure, high-throughput systems for banks and fintechs. I work across **C#/.NET (ASP.NET Core, Entity Framework Core)** and **Node.js (NestJS, Express, TypeScript)**, with full-stack fluency in **React, Next.js and Angular**.
+I'm **James Olanipekun**, a Senior Backend Engineer with nearly 8 years building secure, high-throughput systems for banks, fintechs and product teams across e-commerce, logistics, hospitality and SaaS. I work across **C#/.NET (ASP.NET Core, Entity Framework Core)** and **Node.js (NestJS, Express, TypeScript)**, with full-stack fluency in **React, Next.js and Angular**.
 
 Most recently I've worked on digital banking platforms at **First Bank of Nigeria** and **Lotus Bank**, and on a digital lending platform at **VeendHQ**.
 
